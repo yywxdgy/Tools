@@ -1,0 +1,100 @@
+{
+  "inbound": [
+    {
+      "localPort": 10808,
+      "protocol": "socks",
+      "udpEnabled": true,
+      "sniffingEnabled": true
+    }
+  ],
+  "logEnabled": false,
+  "loglevel": "warning",
+  "index": 2,
+  "vmess": [
+    {
+      "configVersion": 2,
+      "address": "u4m1.go2world.icu",
+      "port": 11004,
+      "id": "5703847603",
+      "alterId": 0,
+      "security": "aes-256-cfb",
+      "network": "",
+      "remarks": "",
+      "headerType": "",
+      "requestHost": "",
+      "path": "",
+      "streamSecurity": "",
+      "allowInsecure": "",
+      "configType": 3,
+      "testResult": "远程服务器返回错误: (500) 内部服务器错误。",
+      "subid": ""
+    },
+    {
+      "configVersion": 2,
+      "address": "u4t1.go2world.best",
+      "port": 443,
+      "id": "5703847603",
+      "alterId": 0,
+      "security": "",
+      "network": "",
+      "remarks": "",
+      "headerType": "",
+      "requestHost": "",
+      "path": "",
+      "streamSecurity": "",
+      "allowInsecure": "",
+      "configType": 5,
+      "testResult": "",
+      "subid": ""
+    },
+    {
+      "configVersion": 2,
+      "address": "u4t1.go2world.best",
+      "port": 443,
+      "id": "Zhengqy11",
+      "alterId": 0,
+      "security": "",
+      "network": "",
+      "remarks": "",
+      "headerType": "",
+      "requestHost": "",
+      "path": "",
+      "streamSecurity": "",
+      "allowInsecure": "",
+      "configType": 5,
+      "testResult": "",
+      "subid": ""
+    }
+  ],
+  "muxEnabled": true,
+  "domainStrategy": "IPIfNonMatch",
+  "routingMode": "0",
+  "useragent": [],
+  "userdirect": [],
+  "userblock": [],
+  "kcpItem": {
+    "mtu": 1350,
+    "tti": 50,
+    "uplinkCapacity": 12,
+    "downlinkCapacity": 100,
+    "congestion": false,
+    "readBufferSize": 2,
+    "writeBufferSize": 2
+  },
+  "sysAgentEnabled": false,
+  "listenerType": 2,
+  "urlGFWList": null,
+  "allowLANConn": false,
+  "remoteDNS": null,
+  "subItem": [
+    {
+      "id": "",
+      "remarks": "remarks",
+      "url": "url",
+      "enabled": true
+    }
+  ],
+  "uiItem": {
+    "mainQRCodeWidth": 600
+  }
+}

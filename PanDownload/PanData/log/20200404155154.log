@@ -1,0 +1,18 @@
+2020-04-04 15:51:55 [INFO] pandownload version: 2.2.2
+2020-04-04 15:52:03 [INFO] aria2 websocket connection opened (127.0.0.1:36839)
+2020-04-04 15:52:03 [INFO] aria2 version: 1.35.1
+2020-04-04 15:52:03 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:36839/jsonrpc
+2020-04-04 15:52:03 [INFO] create main window
+2020-04-04 15:52:03 [INFO] verify cookie (611)
+2020-04-04 15:52:22 [INFO] user login success (1101257218702): yywxdgy
+2020-04-04 15:52:38 [WARN] ID#1 - [CURL-EASY][COULDNT_RESOLVE_HOST] Couldn't resolve host name (6)(-1) FILE="C:/Users/HIM的大天朝/Desktop/蓝灯.apk" SIZE="18752195"
+2020-04-04 15:52:45 [WARN] ID#1 - Illegal File(-1) FILE="C:/Users/HIM的大天朝/Desktop/蓝灯.apk" SIZE="18752195"
+2020-04-04 15:52:55 [WARN] ID#1 - Illegal File(-1) FILE="C:/Users/HIM的大天朝/Desktop/蓝灯.apk" SIZE="18752195"
+2020-04-04 15:53:02 [WARN] ID#1 - Illegal File(-1) FILE="C:/Users/HIM的大天朝/Desktop/蓝灯.apk" SIZE="18752195"
+2020-04-04 15:53:08 [WARN] ID#1 - Illegal File(-1) FILE="C:/Users/HIM的大天朝/Desktop/蓝灯.apk" SIZE="18752195"
+2020-04-04 15:53:13 [WARN] ID#2 - [CURL-EASY][COULDNT_RESOLVE_HOST] Couldn't resolve host name (6)(-1) FILE="C:/Users/HIM的大天朝/Desktop/com.cloudinject.feature.App.apk" SIZE="17434659"
+2020-04-04 15:53:14 [WARN] ID#1 - Illegal File(-1) FILE="C:/Users/HIM的大天朝/Desktop/蓝灯.apk" SIZE="18752195"
+2020-04-04 15:54:50 [INFO] close main window
+2020-04-04 15:54:50 [WARN] aria2 websocket connection closed (127.0.0.1:36839), code: 1000 (Normal close), reason: aria2 shutdown
+2020-04-04 15:54:51 [INFO] websocket client stop
+2020-04-04 15:54:52 [INFO] exit

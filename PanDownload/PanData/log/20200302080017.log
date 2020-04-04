@@ -1,0 +1,12 @@
+2020-03-02 08:00:18 [INFO] pandownload version: 2.2.2
+2020-03-02 08:00:20 [INFO] aria2 websocket connection opened (127.0.0.1:36837)
+2020-03-02 08:00:20 [INFO] aria2 version: 1.35.1
+2020-03-02 08:00:20 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:36837/jsonrpc
+2020-03-02 08:00:20 [INFO] create main window
+2020-03-02 08:01:22 [INFO] verify cookie (611)
+2020-03-02 08:01:25 [INFO] user login success (1101257218702): yywxdgy
+2020-03-02 10:21:32 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":1424771337472316997}
+2020-03-02 16:02:22 [WARN] request error (0x2000079d5): https://pan.baidu.com/api/zipfile/list {"errno":31189,"request_id":1430262178189083021}
+2020-03-02 16:02:28 [WARN] request error (0x2000079d5): https://pan.baidu.com/api/zipfile/list {"errno":31189,"request_id":1430263783152345723}
+2020-03-02 21:44:39 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2020-03-03 07:17:15 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 

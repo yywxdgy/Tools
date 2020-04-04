@@ -1,0 +1,35 @@
+2020-03-01 17:49:49 [INFO] pandownload version: 2.2.2
+2020-03-01 17:49:52 [INFO] aria2 websocket connection opened (127.0.0.1:36952)
+2020-03-01 17:49:52 [INFO] aria2 version: 1.35.1
+2020-03-01 17:49:52 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:36952/jsonrpc
+2020-03-01 17:49:52 [INFO] create main window
+2020-03-01 17:49:52 [INFO] verify cookie (598)
+2020-03-01 17:49:55 [INFO] user login success (3715192693): 爱舒游竺
+2020-03-01 17:52:40 [WARN] ID#1 - The response status is not successful. status=403(22) FILE="C:/Users/HIM的大天朝/Desktop/（2）美少女万華鏡.rar" SIZE="2211428284"
+2020-03-01 19:05:45 [WARN] ID#1 - No URI available.(2) FILE="C:/Users/HIM的大天朝/Desktop/（2）美少女万華鏡.rar" SIZE="2211428284"
+2020-03-01 23:26:15 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2020-03-02 00:11:31 [WARN] ID#1 - No URI available.(19) FILE="C:/Users/HIM的大天朝/Desktop/LoveLovesisters/LoveLoveSisters.part1.rar" SIZE="2147483648"
+2020-03-02 00:11:31 [WARN] ID#2 - No URI available.(19) FILE="C:/Users/HIM的大天朝/Desktop/LoveLovesisters/LoveLoveSisters.part2.rar" SIZE="521384115"
+2020-03-02 00:11:31 [WARN] request error (0x100000006): https://pan.baidu.com/rest/2.0/membership/speeds/freqctrl?method=get 
+2020-03-02 00:11:31 [WARN] ID#1 - [CURL-EASY][COULDNT_RESOLVE_HOST] Couldn't resolve host name (6)(-1) FILE="C:/Users/HIM的大天朝/Desktop/LoveLovesisters/LoveLoveSisters.part1.rar" SIZE="2147483648"
+2020-03-02 00:11:31 [WARN] ID#2 - [CURL-EASY][COULDNT_RESOLVE_HOST] Couldn't resolve host name (6)(-1) FILE="C:/Users/HIM的大天朝/Desktop/LoveLovesisters/LoveLoveSisters.part2.rar" SIZE="521384115"
+2020-03-02 00:11:31 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2020-03-02 00:11:31 [WARN] ID#1 - [CURL-EASY][COULDNT_RESOLVE_HOST] Couldn't resolve host name (6)(-1) FILE="C:/Users/HIM的大天朝/Desktop/LoveLovesisters/LoveLoveSisters.part1.rar" SIZE="2147483648"
+2020-03-02 00:11:31 [WARN] ID#2 - [CURL-EASY][COULDNT_RESOLVE_HOST] Couldn't resolve host name (6)(-1) FILE="C:/Users/HIM的大天朝/Desktop/LoveLovesisters/LoveLoveSisters.part2.rar" SIZE="521384115"
+2020-03-02 07:15:55 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2020-03-02 07:18:51 [WARN] ID#1 - The response status is not successful. status=403(22) FILE="C:/Users/HIM的大天朝/Desktop/LoveLovesisters/LoveLoveSisters.part1.rar" SIZE="2147483648"
+2020-03-02 07:18:54 [WARN] ID#1 - The response status is not successful. status=403(22) FILE="C:/Users/HIM的大天朝/Desktop/LoveLovesisters/LoveLoveSisters.part1.rar" SIZE="2147483648"
+2020-03-02 07:18:55 [WARN] ID#1 - user is not authorized, hitcode:117(-1) FILE="C:/Users/HIM的大天朝/Desktop/LoveLovesisters/LoveLoveSisters.part1.rar" SIZE="2147483648"
+2020-03-02 07:20:05 [WARN] ID#2 - The response status is not successful. status=403(22) FILE="C:/Users/HIM的大天朝/Desktop/LoveLovesisters/LoveLoveSisters.part2.rar" SIZE="521384115"
+2020-03-02 07:20:07 [WARN] ID#2 - The response status is not successful. status=403(22) FILE="C:/Users/HIM的大天朝/Desktop/LoveLovesisters/LoveLoveSisters.part2.rar" SIZE="521384115"
+2020-03-02 07:20:08 [WARN] ID#2 - user is not authorized, hitcode:117(-1) FILE="C:/Users/HIM的大天朝/Desktop/LoveLovesisters/LoveLoveSisters.part2.rar" SIZE="521384115"
+2020-03-02 07:28:23 [WARN] ID#1 - The response status is not successful. status=403(22) FILE="C:/Users/HIM的大天朝/Desktop/LoveLovesisters/LoveLoveSisters.part1.rar" SIZE="2147483648"
+2020-03-02 07:28:25 [WARN] ID#1 - The response status is not successful. status=403(22) FILE="C:/Users/HIM的大天朝/Desktop/LoveLovesisters/LoveLoveSisters.part1.rar" SIZE="2147483648"
+2020-03-02 07:28:26 [WARN] ID#2 - The response status is not successful. status=403(22) FILE="C:/Users/HIM的大天朝/Desktop/LoveLovesisters/LoveLoveSisters.part2.rar" SIZE="521384115"
+2020-03-02 07:28:27 [WARN] ID#1 - The response status is not successful. status=403(22) FILE="C:/Users/HIM的大天朝/Desktop/LoveLovesisters/LoveLoveSisters.part1.rar" SIZE="2147483648"
+2020-03-02 07:57:08 [INFO] verify cookie (598)
+2020-03-02 07:57:11 [INFO] user login success (3715192693): 爱舒游竺
+2020-03-02 08:00:15 [INFO] close main window
+2020-03-02 08:00:15 [WARN] aria2 websocket connection closed (127.0.0.1:36952), code: 1000 (Normal close), reason: aria2 shutdown
+2020-03-02 08:00:16 [INFO] websocket client stop
+2020-03-02 08:00:16 [INFO] exit
